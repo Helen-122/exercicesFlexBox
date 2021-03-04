@@ -1,0 +1,9 @@
+
+.echec
+{
+display: flex;
+flex-direction: column;
+flex-wrap: wrap-reverse;
+width: 100%;
+height: 200px;
+}
